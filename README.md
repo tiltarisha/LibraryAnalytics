@@ -86,5 +86,4 @@ Python-скрипт (`python/analysis.py`) выполняет ту же анал
 6. Открыть `powerbi/LibraryAnalytics.pbix` в Power BI Desktop
 
 ## Автор
-
-
+Проект выполнен в рамках формирования портфолио по направлению Системная Аналитика.
