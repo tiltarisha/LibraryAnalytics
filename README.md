@@ -47,7 +47,7 @@ LibraryAnalytics
 
 БД включает 7 таблиц: `Authors`, `Genres`, `Publishers`, `Books`, `Readers`, `Loans`, `Fines`.
 
-ER-диаграмма: [docs/ER-diagram.png](docs/ER-diagram.png)
+ER-диаграмма: ![docs/ER-diagram.png](docs/ER-diagram.png)
 
 ## Аналитика
 
